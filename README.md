@@ -1,4 +1,4 @@
-# Healthcare Data Science Projects with MIMIC-III
+# Data Science Projects for Healthcare with MIMIC-III
 
 ## About
 This repository contains multiple projects based on MIMIC-III clinical database. 
